@@ -27,4 +27,3 @@
 
 <img src="imgcarrinho.jpg" alt="alt text" width="200"/>
 
-<h5>**O projeto ainda encontra-e em desenvolvimento**</h5>
